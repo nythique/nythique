@@ -1,17 +1,20 @@
-## Hi there 👋
+## Hi there, its me Nythique 👋
 
-Want to center the icons in your readme? The SVGs are automatically resized, so you can do it the same way you'd normally center an image.
+Welcome in my github profile. Do you want to know more about me? TOkay, this is the maximum amount of information available about me.
 
 ```html
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+- 🔭 I’m currently working on my study
+- 🌱 I’m currently learning : C++ & +
+- 👯 I’m looking to collaborate on a project!
+- 🤔 I’m looking for help to learn!
+- 💬 Ask me about programming!
+- 📫 How to reach me: Nythique(discord)
+- 😄 Pronouns: The Dragon King!
+- ⚡ Nindo: No sacrifice, no victory!
 ```
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,js,py,c,c++" />
   </a>
 </p>
