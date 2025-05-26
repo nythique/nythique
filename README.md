@@ -4,7 +4,7 @@
 
 <p align="center" style="font-size: 22px;">
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fox_1f98a.gif" width="38" style="vertical-align:middle;"/>
-  <b style="color:#00ffe7;">忍者 du code</b> &nbsp;|&nbsp; <b style="color:#00ffe7;">Esprit du village caché dans le terminal</b>
+  <b style="color:#00ffe7;">Developper | Enthusiastic about computing and electronic systems</b>
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="30" style="vertical-align:middle;"/>
 </p>
 
@@ -17,19 +17,19 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash,debian,windows,kali" height="32"/>
       <ul>
-        <li>⚡ Automatisation des tâches</li>
+        <li>⚡ Programming space</li>
       </ul>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,js,cpp,c" height="32"/>
       <ul>
-        <li>⚡ Programmation</li>
+        <li>⚡ Programming language</li>
       </ul>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" height="32"/>
       <ul>
-        <li>⚡ Web minimaliste</li>
+        <li>⚡ Programming tools</li>
       </ul>
     </td>
   </tr>
@@ -60,20 +60,18 @@
 <div align="center">
 
 <details>
-  <summary><b style="color:#00ffe7;">📚 Mangas & animés favoris</b></summary>
+  <summary><b style="color:#00ffe7;">Find Me Online</b></summary>
   <ul>
-    <li>Naruto</li>
-    <li>Steins;Gate</li>
+    <p></p>
+    <li><a href="https://github.com/nythique/ma-bibliotheque">Ma bibliothèque Python</a></li>
     <li>Death Note</li>
-    <li>Jujutsu Kaisen</li>
-    <li>Chainsaw Man</li>
   </ul>
 </details>
 
 <details>
-  <summary><b style="color:#00ffe7;">🦊 Personnages préférés</b></summary>
+  <summary><b style="color:#00ffe7;">♦️Shop & Support</b></summary>
   <ul>
-    <li>Kakashi Hatake</li>
+    <p>Kakashi Hatake</p>
     <li>Kurama</li>
     <li>Itachi Uchiha</li>
     <li>Makima</li>
