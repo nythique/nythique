@@ -3,7 +3,6 @@
 </p>
 
 <p align="center" style="font-size: 22px;">
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fox_1f98a.gif" width="38" style="vertical-align:middle;"/>
   <b>Developper | Enthusiastic about computing and electronic systems</b>
   <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="30" style="vertical-align:middle;"/>
 </p>
