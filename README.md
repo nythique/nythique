@@ -62,30 +62,26 @@
 <details>
   <summary><b style="color:#00ffe7;">Find Me Online</b></summary>
   <ul>
+    <li><a href="https://t.me/nythique">Telegram</a></li>
+    <li><a href="https://guns.lol/nythique">Others</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b style="color:#00ffe7;">Support links</b></summary>
+  <ul>
     <p></p>
-    <li><a href="https://github.com/nythique/ma-bibliotheque">Ma bibliothèque Python</a></li>
-    <li>Death Note</li>
+    <li><a href="https://dsc.gg/nexium-portal">Discord Team</a></li>
+    <li><a href="https://ko-fi.com/nythique/shop">Ko-fi Shop</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><b style="color:#00ffe7;">♦️Shop & Support</b></summary>
-  <ul>
-    <p>Kakashi Hatake</p>
-    <li>Kurama</li>
-    <li>Itachi Uchiha</li>
-    <li>Makima</li>
-    <li>Rintarou Okabe</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b style="color:#00ffe7;">⚡ Activité récente</b></summary>
-  <ul>
-    <li>📝 A codé un script batch pour automatiser le terminal</li>
-    <li>🐍 A publié un projet Python sur GitHub</li>
-    <li>🛠️ A contribué à un repo open-source</li>
-    <li>🔥 A battu son record de streak !</li>
-  </ul>
+  <summary><b style="color:#00ffe7;">Activity</b></summary>
+  <ol>
+    <li>I am currently working on private projects</li>
+    <li>I study computer architecture</li>
+    <li>Experimentation with generative AI and open source models</li>
+  </ol>
 </details>
 </div>
