@@ -44,13 +44,13 @@
 
 <br>
 
-<img src="https://img.shields.io/github/stars/nythique/ScryptBat?style=flat-square&color=ffd200&logo=github" alt="GitHub Repo stars"/>
-<img src="https://img.shields.io/github/forks/nythique/ScryptBat?style=flat-square&logo=github" alt="GitHub forks"/>
-<img src="https://img.shields.io/github/watchers/nythique/ScryptBat?style=flat-square&logo=github" alt="GitHub watchers"/>
-<img src="https://img.shields.io/github/contributors/nythique/ScryptBat?style=flat-square&logo=github" alt="GitHub contributors"/>
-<img src="https://img.shields.io/github/last-commit/nythique/ScryptBat?style=flat-square&color=00ffe7" alt="Last commit"/>
-<img src="https://img.shields.io/github/issues/nythique/ScryptBat?style=flat-square&color=ff3131" alt="Issues"/>
-<img src="https://img.shields.io/github/issues-pr/nythique/ScryptBat?style=flat-square&color=00ffe7" alt="Pull requests"/>
+<img src="https://img.shields.io/github/stars/nythique/Telegram-chatBot.git?style=flat-square&color=ffd200&logo=github" alt="GitHub Repo stars"/>
+<img src="https://img.shields.io/github/forks/nythique/Telegram-chatBot.git?style=flat-square&logo=github" alt="GitHub forks"/>
+<img src="https://img.shields.io/github/watchers/nythique/Telegram-chatBot.git?style=flat-square&logo=github" alt="GitHub watchers"/>
+<img src="https://img.shields.io/github/contributors/nythique/Telegram-chatBot.git?style=flat-square&logo=github" alt="GitHub contributors"/>
+<img src="https://img.shields.io/github/last-commit/nythique/Telegram-chatBot.git?style=flat-square&color=00ffe7" alt="Last commit"/>
+<img src="https://img.shields.io/github/issues/nythique/Telegram-chatBot.git?style=flat-square&color=ff3131" alt="Issues"/>
+<img src="https://img.shields.io/github/issues-pr/nythique/Telegram-chatBot.git?style=flat-square&color=00ffe7" alt="Pull requests"/>
 
 </div>
 
