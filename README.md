@@ -84,3 +84,11 @@
   </ol>
 </details>
 </div>
+
+<details>
+  <summary><b style="color:#00ffe7;">calandar</b></summary>
+  <ul>
+    <p>Today 10/06/2025</p>
+  </ul>
+</details>
+
