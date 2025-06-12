@@ -20,7 +20,7 @@ jobs:
           DATE=$(date -u +"%d/%m/%Y")
           LINE="Today $DATE"
           if grep -q "Today" README.md; then
-            sed -i "s/Today.*/$LINE/" README.md
+            sed -i "s|Today.*|$LINE|" README.md
           else
             echo -e "\n$LINE" >> README.md
           fi
