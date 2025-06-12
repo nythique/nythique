@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/github/forks/nythique/PyLauncher?style=flat-square&logo=github" alt="GitHub forks"/>
 <img src="https://img.shields.io/github/watchers/nythique/PyLauncher?style=flat-square&logo=github" alt="GitHub watchers"/>
 <img src="https://img.shields.io/github/contributors/nythique/PyLauncher?style=flat-square&logo=github" alt="GitHub contributors"/>
-<img src="https://img.shields.io/github/last-commit/nythique/PyLauncher?style=flat-square&color=00ffe7" alt="Last commit"/>
+<img src="https://img.shields.io/github/last-commit/nythique/nythique?style=flat-square&color=00ffe7" alt="Last commit"/>
 <img src="https://img.shields.io/github/issues/nythique/PyLauncher?style=flat-square&color=ff3131" alt="Issues"/>
 <img src="https://img.shields.io/github/issues-pr/nythique/PyLauncher?style=flat-square&color=00ffe7" alt="Pull requests"/>
 
