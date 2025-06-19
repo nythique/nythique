@@ -88,7 +88,7 @@
 <details>
   <summary><b style="color:#00ffe7;">calandar</b></summary>
   <ul>
-    <p>Today 18/06/2025
+    <p>Today 19/06/2025
   </ul>
 </details>
 
