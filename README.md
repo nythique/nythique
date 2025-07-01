@@ -67,15 +67,6 @@
 </details>
 
 <details>
-  <summary><b style="color:#00ffe7;">Support links</b></summary>
-  <ul>
-    <p></p>
-    <li><a href="https://dsc.gg/nexium-portal">Discord Team</a></li>
-    <li><a href="https://ko-fi.com/nythique/shop">Ko-fi Shop</a></li>
-  </ul>
-</details>
-
-<details>
   <summary><b style="color:#00ffe7;">Activity</b></summary>
   <ol>
     <li>I am currently working on private projects</li>
