@@ -80,6 +80,9 @@
   <summary><b style="color:#00ffe7;">calandar</b></summary>
   <ul>
     <p>Today 03/07/2025
+    <div align="center">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythique&layout=compact&theme=dark&hide=javascript,html"/>
+    </div>
   </ul>
 </details>
 
