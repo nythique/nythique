@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nythique&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nythique&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
 
 <br>
 
@@ -70,7 +70,7 @@
   <summary><b style="color:#00ffe7;">Activity</b></summary>
   <ol>
     <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nythique&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythique&layout=compact&theme=dark&hide=javascript,html"/>
     </div>
   </ol>
 </details>
@@ -81,7 +81,7 @@
   <ul>
     <p>Today 03/07/2025
     <div align="center">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythique&layout=compact&theme=dark&hide=javascript,html"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nythique&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/>  
     </div>
   </ul>
 </details>
