@@ -79,7 +79,7 @@
 <details>
   <summary><b style="color:#00ffe7;">calandar</b></summary>
   <ul>
-    <p>Today 02/07/2025
+    <p>Today 03/07/2025
   </ul>
 </details>
 
