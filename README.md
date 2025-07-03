@@ -69,9 +69,9 @@
 <details>
   <summary><b style="color:#00ffe7;">Activity</b></summary>
   <ol>
-    <li>I am currently working on private projects</li>
-    <li>I study computer architecture</li>
-    <li>Experimentation with generative AI and open source models</li>
+    <div align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nythique&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"/>
+    </div>
   </ol>
 </details>
 </div>
