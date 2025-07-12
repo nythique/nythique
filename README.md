@@ -61,7 +61,7 @@
 <details>
   <summary><b style="color:#00ffe7;">Github Page</b></summary>
   <ul>
-    <li><a href="https://guns.lol/nythique">nythique.githtub.io</a></li>
+    <li><a href="https://nythique.githtub.io">nythique.githtub.io</a></li>
   </ul>
 </details>
 
