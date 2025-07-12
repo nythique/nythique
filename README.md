@@ -59,10 +59,9 @@
 <div align="center">
 
 <details>
-  <summary><b style="color:#00ffe7;">Find Me Online</b></summary>
+  <summary><b style="color:#00ffe7;">Github Page</b></summary>
   <ul>
-    <li><a href="https://t.me/nythique">Telegram</a></li>
-    <li><a href="https://guns.lol/nythique">My Guns.lol</a></li>
+    <li><a href="https://guns.lol/nythique">nythique.githtub.io</a></li>
   </ul>
 </details>
 
