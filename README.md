@@ -60,9 +60,7 @@
 
 <details>
   <summary><b style="color:#00ffe7;">Github Page</b></summary>
-  <ul>
-    <li><a href="https://nythique.github.io">nythique.github.io</a></li>
-  </ul>
+    <p><a href="https://nythique.github.io">nythique.github.io</p>
 </details>
 
 <details>
