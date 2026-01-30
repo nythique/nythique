@@ -76,7 +76,7 @@
 <details>
   <summary><b style="color:#00ffe7;">calandar</b></summary>
   <ul>
-    <p>Today 29/01/2026
+    <p>Today 30/01/2026
     <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nythique&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/>  
     </div>
